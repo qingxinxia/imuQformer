@@ -1,3 +1,4 @@
 examples
 *.pth
 *.pkl
+.idea
